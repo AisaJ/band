@@ -1,0 +1,24 @@
+body{
+  font-family: serif;
+}
+h1,h2{
+  color: green;
+  text-align: center;
+}
+.container{
+  width: auto;
+}
+.section1{
+  float: left;
+  width: 70%;
+}
+.section2{
+  float: right
+  
+}
+.section2 img{
+  height: auto;
+  width: 10em;
+  padding-bottom: 1.5em;
+  box-shadow: 0.3em 0.3em 0.2em rgb(255,223,0);
+}
