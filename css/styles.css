@@ -14,11 +14,14 @@ h1,h2{
 }
 .section2{
   float: right
-  
+
 }
 .section2 img{
   height: auto;
   width: 10em;
   padding-bottom: 1.5em;
   box-shadow: 0.3em 0.3em 0.2em rgb(255,223,0);
+}
+iframe{
+  align: center;
 }
